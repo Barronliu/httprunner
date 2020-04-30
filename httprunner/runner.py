@@ -9,7 +9,7 @@ from httprunner.client import HttpSession
 from httprunner.context import SessionContext
 from httprunner.validator import Validator
 
-
+#barron
 class HookTypeEnum(Enum):
     SETUP = 1
     TEARDOWN = 2
